@@ -15,10 +15,18 @@ Me llamo Rafael Alberto Zarzo Torres, soy de una pequeña cuidad llamada Salaman
 
 ### Titulaciones oficiales
 
-🥉 Ciclo de Grado Superior en Administración de Sistemas en red (ASIR)
-🥉 Ciclo formativo de grado medio en Sistemas Microinformáticos y Redes (SMR)
-🥉 Próximamente Ciclo de Grado Superior en programación (DAM/DAW)
-🥉 Certificación B1 emitida por Cambridge (B1)
-🥉 Bachillerato en ciencias sociales y humanidades.
-🥉 Certificado emitido por Oracle en PL/SQL
+🥉 Ciclo de Grado Superior en Administración de Sistemas en Red. (ASIR) </br>
+🥉 Ciclo formativo de grado medio en Sistemas Microinformáticos y Redes. (SMR) </br>
+🥉 Próximamente Ciclo de Grado Superior en programación. (DAM/DAW) </br>
+🥉 Certificación B1 emitida por Cambridge. (B1) </br>
+🥉 Bachillerato en ciencias sociales y humanidades. </br>
+🥉 Certificado emitido por Oracle en PL/SQL. </br>
 
+### Redes sociales:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alberto_Zarzo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/albertozarzo/) </br>
+[![Twitter](https://img.shields.io/badge/Twitter-Rorschach_Lord-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]() </br>
+
+## Contacto:
+
+[![Email](https://img.shields.io/badge/Español-Email-ff8000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](stroncio198@gmail.com)
