@@ -25,7 +25,7 @@ Me llamo Rafael Alberto Zarzo Torres, soy de una pequeña cuidad llamada Salaman
 ### Redes sociales:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alberto_Zarzo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/albertozarzo/) </br>
-[![Twitter](https://img.shields.io/badge/Twitter-Rorschach_Lord-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://twitter.com/rorschach_lord) </br>
+[![Twitter](https://img.shields.io/badge/Twitter-Alberto_Zarzo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://twitter.com/rorschach_lord) </br>
 
 ## Contacto:
 
