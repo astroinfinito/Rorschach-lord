@@ -28,6 +28,6 @@ Me llamo Rafael Alberto Zarzo Torres, soy de una pequeña cuidad llamada Salaman
 
 ## Contacto:
 
-[![Email](https://img.shields.io/badge/Email-stroncio198@gmail.com-ff8000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](stroncio198@gmail.com)
+[![Email](https://img.shields.io/badge/Email-albertozarzodev@gmail.com-ff8000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](stroncio198@gmail.com)
 
 Un saludo a todos y que tengan un buen día. 👋
