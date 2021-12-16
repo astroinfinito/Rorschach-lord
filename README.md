@@ -17,7 +17,6 @@ Me llamo Rafael Alberto Zarzo Torres, soy de una pequeña cuidad llamada Salaman
 
 🥉 Ciclo de Grado Superior en Administración de Sistemas en Red. (ASIR) </br>
 🥉 Ciclo formativo de grado medio en Sistemas Microinformáticos y Redes. (SMR) </br>
-🥉 Próximamente Ciclo de Grado Superior en programación. (DAM/DAW) </br>
 🥉 Certificación B1 emitida por Cambridge. (B1) </br>
 🥉 Bachillerato en ciencias sociales y humanidades. </br>
 🥉 Certificado emitido por Oracle en PL/SQL. </br>
